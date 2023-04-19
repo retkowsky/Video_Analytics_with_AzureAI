@@ -23,4 +23,4 @@
 
 <img src="gradioapp4.jpg">
 
-19-Apri-2023 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
+19-Apr-2023 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
