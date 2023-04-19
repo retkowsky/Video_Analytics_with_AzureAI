@@ -14,5 +14,13 @@
 - https://learn.microsoft.com/en-us/azure/cognitive-services/computer-vision/overview
 - https://learn.microsoft.com/en-us/azure/cognitive-services/openai/overview
 
+## Some examples
+<img src="gradioapp.jpg">
+
+<img src="gradioapp2.jpg">
+
+<img src="gradioapp3.jpg">
+
+<img src="gradioapp4.jpg">
 
 19-Apri-2023 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
