@@ -1,6 +1,6 @@
 # Video Analytics with Azure AI with a chatGPT like experience
 
-A quick prototype of a video analytics solution to analyse content from a video with a chatGPT like experience using Azure Computer Vision for dense captionning and OCR, Azure Speech Services for speech to text, Azure Open AI and LangChain.
+A quick prototype of a video analytics solution to analyse content from a video with a chatGPT like experience using **Azure Computer Vision** for dense captionning and OCR, **Azure Speech Services** for speech to text, **Azure Open AI** and LangChain.
 
 ## Process
 - Frames extraction from the video file
